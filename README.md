@@ -1,4 +1,4 @@
-## This is repository made to submit final project for the course IT412- Natural Language Processing
+## This repository is made to submit final project for the course IT412- Natural Language Processing
 
 ### Submitted by:
 ### Bhavan Bhatt (202311021)
